@@ -7,6 +7,10 @@ h1 {
     font-size: 300%;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 h3 {
     font-size: 150%;
 }
@@ -51,4 +55,28 @@ h3 {
 
 }
 
-.experience-area {}
+.develop-part {
+    text-align: justify;
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 15px 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#full-stak {
+    border-left: 7px solid tomato;
+}
+
+#front-end {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
+}
